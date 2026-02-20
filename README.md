@@ -177,8 +177,8 @@ POST /api/comments
 ## ⚙️ Setup & Installation
 
 ```bash
-git clone <repo-url>
-cd project
+git clone git@github.com:BohdanSharubin/posts-comments-api.git
+cd posts-comments-api
 npm install
 ```
 
